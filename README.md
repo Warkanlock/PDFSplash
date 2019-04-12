@@ -34,6 +34,9 @@
 #generate index from XML FILE using his PATH
 tableOfContent, filenameOFfile = generateIndexListfromXML(document_path_name_XML, document_path_name_PDF, element_of_yourXML)
 
+
+# You can generate TOC based in XML file and them you can merge with PDF file
+
 #generate an HTML file with the INDEX of PDF
 convertHTMLwithTOC(tableOfContent, filenameOFfile, title_of_document, 1)
 
