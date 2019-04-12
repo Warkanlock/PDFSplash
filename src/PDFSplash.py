@@ -3,12 +3,10 @@ import sys
 import string
 import re
 import math
-import json
-import requests
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import nltk
-import weasyprint
+import weasyprint #using Python3
 from PyPDF2 import PdfFileReader, PdfFileWriter, PdfFileMerger
 from xml.dom import minidom
 import xml.etree.ElementTree as ET
