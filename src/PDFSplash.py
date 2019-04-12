@@ -23,7 +23,6 @@ class PDFSplash:
         self.size_toc = []
         downloadStopWords()
         print("DOWNLOAD SUCESSFULLY")
-        
 
     #use if get errors in text parser methods (nltk)
     def downloadStopWords(self):
@@ -271,5 +270,3 @@ class PDFSplash:
             f.write(part_2)
             f.write("</SUPLINF>")
             f.write("</root>")
-
-        
