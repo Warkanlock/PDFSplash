@@ -1,5 +1,10 @@
+
+<div align="center" style="text-align:center">
+  <img src="https://raw.githubusercontent.com/Warkanlock/PDFSplash/master/logo.png?token=AMuOoIflLLGWKVYBWszV4LQQbH74FzL2ks5csSG8wA%3D%3D" height=30% width=30%/>
+</div>
+
 # PDFSplash
-## Tool for generate Table of Contents in PDF´s
+#### Tool for generate PDF´s in the easy way (Table of Contents, Split them, etc)
 
 *NOTE: Using Python 3.x for this tool*
 
