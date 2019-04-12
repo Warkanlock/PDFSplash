@@ -1,6 +1,8 @@
 # PDFSplash
 ## Tool for generate Table of Contents in PDF´s
 
+*NOTE: Using Python 3.x for this tool*
+
 ## REQUIREMENTS
 
 * OS
