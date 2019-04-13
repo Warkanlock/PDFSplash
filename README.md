@@ -4,7 +4,7 @@
 </div>
 
 # PDFSplash
-#### Tool for generate PDF´s in the easy way (Table of Contents, Split them, etc)
+#### Tool for generate PDF´s in easy way (Table of Contents, Split them, etc)
 
 *NOTE: Using Python 3.x for this tool*
 
